@@ -2,7 +2,7 @@ import random
 
 SEPARADOR = "=" * 32
 # para debug
-DAÑO_DEBIL = 100
+DAÑO_DEBIL = 10
 DAÑO_FUERTE = 20
 DAÑO_CRITICO = 30
 
